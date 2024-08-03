@@ -1,5 +1,5 @@
 # Kumon-Writing-Assistant
-这是一个基于InternLM的Tutorial(https://github.com/InternLM/Tutorial)项目实现的公文写作助手语言模型，主要实现以下几点功能：
+这是一个基于InternLM的Tutorial(https://github.com/InternLM/Tutorial) 项目实现的公文写作助手语言模型，主要实现以下几点功能：
 1、按照输入的公文写作要求，输出一篇或者多篇符合规范的公文
 2、能够为用户解疑关于公文写作的种类、规范、避坑点等信息
 3、能够对用户输入的公文进行合理扩写和改写
